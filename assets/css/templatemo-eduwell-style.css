@@ -325,7 +325,7 @@ header
 .header-area .main-nav .nav li a {
   display: block;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 25px;
   text-transform: capitalize;
   color: #fff;
   -webkit-transition: all 0.3s ease 0s;
@@ -336,6 +336,7 @@ header
   line-height: 40px;
   border: transparent;
   letter-spacing: 1px;
+  align-items: center;
 }
 
 .header-area .main-nav .nav li:hover a,
