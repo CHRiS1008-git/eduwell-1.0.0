@@ -760,7 +760,7 @@ services
 }
 
 .services .item .icon {
-  max-width: 75px;
+  max-width: 300px;
   margin: 0 auto;
   min-height: 80px;
   line-height: 80px;
@@ -1057,7 +1057,7 @@ section.testimonials:after {
 .testimonials .item span {
   font-size: 13px;
   font-weight: 700;
-  color: #dc8cdb;
+  color: #ee6bc7;
 }
 
 .testimonials .item img {
