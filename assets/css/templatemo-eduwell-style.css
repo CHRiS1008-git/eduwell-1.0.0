@@ -246,8 +246,9 @@ section {
 header
 --------------------------------------------- 
 */
+
 .background-header {
-  background: rgb(208, 66, 212) !important;
+  background: rgb(255, 255, 255) !important;
   background: linear-gradient(-145deg, rgba(219,138,222,1) 0%, rgba(246,191,159,1) 100%) !important;
   height: 80px!important;
   position: fixed!important;
@@ -258,7 +259,7 @@ header
 }
 
 .header-area {
-  background-color: rgb(255, 118, 248);
+  background-color: rgba(255, 36, 138, 0.288);
   border-radius: 100px;
   background-size: contain;
   background-repeat: no-repeat;
@@ -282,7 +283,7 @@ header
 
 .header-area .main-nav .logo {
   line-height: 100px;
-  color: #fff;
+  color: #00000042;
   font-size: 28px;
   font-weight: 700;
   text-transform: uppercase;
